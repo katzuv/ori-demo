@@ -1,6 +1,6 @@
 fun main(args: Array<String>) {
 
-    val ch = 'z'
+    val ch = 'a'
 
     when(ch) {
         'a', 'e', 'i', 'o', 'u' -> println("$ch is vowel")
